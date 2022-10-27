@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T14:03:25.166Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="8nm9K02GQsaFGr9UXGSd" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-27T14:09:38.821Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="59sanJehEyyNaLtjF1T3" version="20.5.1" type="github" pages="5">
   <diagram id="5C2yOZhcDdu8UmGw2EsT" name="UseCase">
     <mxGraphModel dx="740" dy="1470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="heB4lT8aY2zB5Wse3kcC" name="Activity Diagram">
-    <mxGraphModel dx="2985" dy="1633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2059" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,8 +202,14 @@
         <mxCell id="KgOlXtOIBHpD6tdwRYIK-56" value="Choose payment &lt;br&gt;method" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="sSnX0z3AYXl1U2QgWBm0-1" vertex="1">
           <mxGeometry x="85" y="960" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="64-cu6Ly5fxml3ZYwXfc-9" value="[Pay with Credit Card]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=openThin;endFill=0;" edge="1" parent="sSnX0z3AYXl1U2QgWBm0-1" source="KgOlXtOIBHpD6tdwRYIK-60" target="64-cu6Ly5fxml3ZYwXfc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KgOlXtOIBHpD6tdwRYIK-60" value="" style="rhombus;" parent="sSnX0z3AYXl1U2QgWBm0-1" vertex="1">
-          <mxGeometry x="140" y="1029" width="30" height="30" as="geometry" />
+          <mxGeometry x="140" y="1085" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="64-cu6Ly5fxml3ZYwXfc-8" value="Credit Card&lt;br&gt;Authorization" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="sSnX0z3AYXl1U2QgWBm0-1">
+          <mxGeometry x="85" y="1230" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sSnX0z3AYXl1U2QgWBm0-4" value="Online Food Ordering System" style="swimlane;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="-30" y="140" width="310" height="1960" as="geometry" />
@@ -235,11 +241,14 @@
         <mxCell id="KgOlXtOIBHpD6tdwRYIK-58" value="Create order" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="sSnX0z3AYXl1U2QgWBm0-4" vertex="1">
           <mxGeometry x="120" y="1080" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="64-cu6Ly5fxml3ZYwXfc-6" value="Create order" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="sSnX0z3AYXl1U2QgWBm0-4">
+          <mxGeometry x="120" y="1230" width="140" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="sSnX0z3AYXl1U2QgWBm0-5" value="Restaurant" style="swimlane;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="140" width="310" height="1960" as="geometry" />
         </mxCell>
         <mxCell id="64-cu6Ly5fxml3ZYwXfc-4" value="Create order" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="sSnX0z3AYXl1U2QgWBm0-5">
-          <mxGeometry x="85" y="1230" width="140" height="40" as="geometry" />
+          <mxGeometry x="85" y="1170" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XtNU6iKqtwSH6ZtghAyV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" parent="1" source="sSnX0z3AYXl1U2QgWBm0-8" target="XtNU6iKqtwSH6ZtghAyV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -283,12 +292,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KgOlXtOIBHpD6tdwRYIK-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KgOlXtOIBHpD6tdwRYIK-60" target="KgOlXtOIBHpD6tdwRYIK-58" edge="1">
+        <mxCell id="KgOlXtOIBHpD6tdwRYIK-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="KgOlXtOIBHpD6tdwRYIK-60" target="KgOlXtOIBHpD6tdwRYIK-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-315" y="1330" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-320" y="1240" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KgOlXtOIBHpD6tdwRYIK-62" value="[Pay at Restaurant]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KgOlXtOIBHpD6tdwRYIK-59" vertex="1" connectable="0">
@@ -322,6 +329,13 @@
         </mxCell>
         <mxCell id="64-cu6Ly5fxml3ZYwXfc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=openThin;endFill=0;" edge="1" parent="1" source="KgOlXtOIBHpD6tdwRYIK-58" target="64-cu6Ly5fxml3ZYwXfc-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64-cu6Ly5fxml3ZYwXfc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=openThin;endFill=0;" edge="1" parent="1" source="64-cu6Ly5fxml3ZYwXfc-4" target="64-cu6Ly5fxml3ZYwXfc-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="1390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
