@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T09:57:04.554Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="OfOd0RmchiPIDnyV25-Z" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-28T10:00:07.303Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="pujlHTPpe1qBq-J0eGp7" version="20.5.1" type="github" pages="5">
   <diagram id="5C2yOZhcDdu8UmGw2EsT" name="UseCase">
-    <mxGraphModel dx="1099" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="405" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -397,16 +397,13 @@
           <mxGeometry x="1730" y="40" width="638.51" height="770" as="geometry" />
         </mxCell>
         <mxCell id="uNGkDdamyrPqutmAJa5C-7" value="Restaurants" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="250" width="160" height="248" as="geometry" />
+          <mxGeometry x="610" y="250" width="160" height="108" as="geometry" />
         </mxCell>
         <mxCell id="uNGkDdamyrPqutmAJa5C-8" value="restaurantID: Number&#xa;locationAddress: String&#xa;filterDelivery: Boolian&#xa;filterCategori: Boolian&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uNGkDdamyrPqutmAJa5C-7">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
         </mxCell>
         <mxCell id="uNGkDdamyrPqutmAJa5C-9" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="uNGkDdamyrPqutmAJa5C-7">
           <mxGeometry y="100" width="160" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="uNGkDdamyrPqutmAJa5C-10" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uNGkDdamyrPqutmAJa5C-7">
-          <mxGeometry y="108" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="uNGkDdamyrPqutmAJa5C-11" value="Customer" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="460" width="160" height="170" as="geometry" />
