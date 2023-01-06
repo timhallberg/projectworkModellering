@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T12:36:00.482Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="SCO-fgoydq1MoLmZKzYv" version="20.6.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-01-06T12:50:40.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="bQWIP1X7oLaT_x9hwMhv" version="20.6.0" type="github" pages="6">
   <diagram id="5C2yOZhcDdu8UmGw2EsT" name="UseCase">
-    <mxGraphModel dx="827" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="491" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oFe8WRy7C5E2Et6wAJxc-9" value="Add Food To Cart" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="265" width="140" height="70" as="geometry" />
+          <mxGeometry x="350" y="270" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lEMSPJVFM7SucgRG7Dsa-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="lEMSPJVFM7SucgRG7Dsa-1" target="oFe8WRy7C5E2Et6wAJxc-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
