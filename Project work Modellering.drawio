@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T13:00:28.708Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="C_uSgEMfXRdK2dsQcOui" version="20.6.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-01-06T13:02:00.030Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="_z0N7VIte8Vs-uWeXh0d" version="20.6.0" type="github" pages="6">
   <diagram id="5C2yOZhcDdu8UmGw2EsT" name="UseCase">
-    <mxGraphModel dx="666" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="518" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
         <mxCell id="lEMSPJVFM7SucgRG7Dsa-13" value="Restaurant" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="739" y="715" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lEMSPJVFM7SucgRG7Dsa-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="lEMSPJVFM7SucgRG7Dsa-18" target="lEMSPJVFM7SucgRG7Dsa-13" edge="1">
+        <mxCell id="lEMSPJVFM7SucgRG7Dsa-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lEMSPJVFM7SucgRG7Dsa-18" target="lEMSPJVFM7SucgRG7Dsa-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="690" as="targetPoint" />
           </mxGeometry>
@@ -103,6 +103,9 @@
         </mxCell>
         <mxCell id="lY9wF0IsreCFkE_s4wzu-11" value="Online food ordering system [UseCase]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="305" y="85" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="22IQtRKWT4mq6GB_gejm-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JJsd2a9UtuqpH0mIcwgL-1" target="lEMSPJVFM7SucgRG7Dsa-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JJsd2a9UtuqpH0mIcwgL-1" value="Show ETA" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="350" y="920" width="140" height="70" as="geometry" />
