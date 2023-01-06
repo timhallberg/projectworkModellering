@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T13:19:28.637Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="I510CHY17UPU8Sn4YfFV" version="20.6.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-01-06T13:30:50.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aD96cKiT_qAjcEmlrPhJ" version="20.6.0" type="github" pages="6">
   <diagram id="5C2yOZhcDdu8UmGw2EsT" name="UseCase">
     <mxGraphModel dx="518" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="heB4lT8aY2zB5Wse3kcC" name="Activity Diagram">
-    <mxGraphModel dx="1293" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2470" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,7 +144,7 @@
         <mxCell id="KgOlXtOIBHpD6tdwRYIK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" parent="sSnX0z3AYXl1U2QgWBm0-1" source="KgOlXtOIBHpD6tdwRYIK-1" target="KgOlXtOIBHpD6tdwRYIK-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KgOlXtOIBHpD6tdwRYIK-1" value="Add Option to Cart" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="sSnX0z3AYXl1U2QgWBm0-1" vertex="1">
+        <mxCell id="KgOlXtOIBHpD6tdwRYIK-1" value="Add Food &lt;br&gt;Option to Cart" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="sSnX0z3AYXl1U2QgWBm0-1" vertex="1">
           <mxGeometry x="85" y="285" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KgOlXtOIBHpD6tdwRYIK-14" value="[No]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="sSnX0z3AYXl1U2QgWBm0-1" source="KgOlXtOIBHpD6tdwRYIK-3" target="KgOlXtOIBHpD6tdwRYIK-13" edge="1">
@@ -229,12 +229,6 @@
         <mxCell id="sSnX0z3AYXl1U2QgWBm0-4" value="Online Food Ordering System" style="swimlane;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="-30" y="140" width="310" height="1960" as="geometry" />
         </mxCell>
-        <mxCell id="XtNU6iKqtwSH6ZtghAyV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="sSnX0z3AYXl1U2QgWBm0-4" source="XtNU6iKqtwSH6ZtghAyV-3" target="XtNU6iKqtwSH6ZtghAyV-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XtNU6iKqtwSH6ZtghAyV-3" value="" style="rhombus;" parent="sSnX0z3AYXl1U2QgWBm0-4" vertex="1">
-          <mxGeometry x="40" y="170" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="XtNU6iKqtwSH6ZtghAyV-6" value="&lt;span style=&quot;&quot;&gt;View Menu&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Options&lt;/span&gt;" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="sSnX0z3AYXl1U2QgWBm0-4" vertex="1">
           <mxGeometry x="105" y="220" width="140" height="40" as="geometry" />
         </mxCell>
@@ -303,9 +297,6 @@
         </mxCell>
         <mxCell id="v2bC66bKNuA5wORL6w3h-90" value="Send order to&amp;nbsp;&lt;br&gt;Restaurant" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="sSnX0z3AYXl1U2QgWBm0-5" vertex="1">
           <mxGeometry x="70" y="1490" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XtNU6iKqtwSH6ZtghAyV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" parent="1" source="sSnX0z3AYXl1U2QgWBm0-8" target="XtNU6iKqtwSH6ZtghAyV-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KgOlXtOIBHpD6tdwRYIK-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XtNU6iKqtwSH6ZtghAyV-6" target="KgOlXtOIBHpD6tdwRYIK-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -480,6 +471,9 @@
               <mxPoint x="420" y="1705" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gn-dsocc_Fw8KC2--1ib-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="sSnX0z3AYXl1U2QgWBm0-8" target="XtNU6iKqtwSH6ZtghAyV-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
