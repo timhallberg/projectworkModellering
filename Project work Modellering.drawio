@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T15:16:11.363Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="haW2rJYSg1Ew2Dc1XABF" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-08T15:21:28.692Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="06JF2dySAlune7OXWjWY" version="20.8.3" type="github" pages="5">
   <diagram id="5C2yOZhcDdu8UmGw2EsT" name="UseCase">
-    <mxGraphModel dx="2951" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="582" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,14 +112,11 @@
         <mxCell id="JJsd2a9UtuqpH0mIcwgL-1" value="Show ETA" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="350" y="920" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="22IQtRKWT4mq6GB_gejm-2" value="Kund först när de köpt ngt inte när de loggat in.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="70" y="30" width="280" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="heB4lT8aY2zB5Wse3kcC" name="Activity Diagram">
-    <mxGraphModel dx="1163" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="2457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -212,7 +209,7 @@
         <mxCell id="lwDzxp7nd6C7usmR-lFy-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Manage Cart&lt;/span&gt;" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="sSnX0z3AYXl1U2QgWBm0-1" vertex="1">
           <mxGeometry x="85" y="1210" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lwDzxp7nd6C7usmR-lFy-30" value="[pick up food]" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.506;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="sSnX0z3AYXl1U2QgWBm0-1" edge="1" target="lwDzxp7nd6C7usmR-lFy-29" source="lwDzxp7nd6C7usmR-lFy-27">
+        <mxCell id="lwDzxp7nd6C7usmR-lFy-30" value="[pick up food]" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.506;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="sSnX0z3AYXl1U2QgWBm0-1" source="lwDzxp7nd6C7usmR-lFy-27" target="lwDzxp7nd6C7usmR-lFy-29" edge="1">
           <mxGeometry x="0.3106" relative="1" as="geometry">
             <mxPoint x="156.0434782608695" y="1324.9565217391305" as="sourcePoint" />
             <mxPoint x="351" y="1365" as="targetPoint" />
