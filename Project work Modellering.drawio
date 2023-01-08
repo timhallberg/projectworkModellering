@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T10:32:42.927Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="8gU1sayqUrf5mZurlbv3" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-08T10:34:10.002Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TKlc4dmKw4qmSTPBa7Mo" version="20.6.0" type="github" pages="5">
   <diagram id="5C2yOZhcDdu8UmGw2EsT" name="UseCase">
     <mxGraphModel dx="2951" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -851,7 +851,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rdeHf4TdWS1WWEgRXUAP" name="Sequence diagram">
-    <mxGraphModel dx="1008" dy="1719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2431" dy="2429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -965,7 +965,7 @@
         <mxCell id="uuviKHJLs4wPi967wcpE-75" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="uuviKHJLs4wPi967wcpE-74" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2.2737367544323206e-13" y="169.99999999999977" as="sourcePoint" />
-            <mxPoint x="880" y="170" as="targetPoint" />
+            <mxPoint x="593" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uuviKHJLs4wPi967wcpE-73" value="[else pick up]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uuviKHJLs4wPi967wcpE-74" vertex="1">
@@ -1138,7 +1138,7 @@
         <mxCell id="ImiR58koRDhQ7vsbVidP-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;sketch=0;endSize=6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="56" y="380" as="sourcePoint" />
-            <mxPoint x="940" y="380" as="targetPoint" />
+            <mxPoint x="690" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ImiR58koRDhQ7vsbVidP-14" value="[else]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
